@@ -1,0 +1,1800 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.11.12)  19 FEB 2016 01:36
+entering extended mode
+**bare_jrnl_compsoc.tex
+
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\bare_jrnl_co
+mpsoc.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpdimenC=\dimen104
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmpcountC=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 503.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen105
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen106
+\CLASSINFOnormalsizeunitybaselineskip=\dimen107
+\IEEEnormaljot=\dimen108
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <5.01874> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <7.02625> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <8.03> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.03374> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <9.53561> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <11.04124> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <12.045> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.06374> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <17.06374> not available
+
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <20.075> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1090.
+LaTeX Font Info:    Font shape `OT1/ppl/bx/it' in size <24.09> not available
+(Font)              Font shape `OT1/ppl/b/it' tried instead on input line 1090.
+
+\IEEEquantizedlength=\dimen109
+\IEEEquantizedlengthdiff=\dimen110
+\IEEEquantizedtextheightdiff=\dimen111
+\IEEEilabelindentA=\dimen112
+\IEEEilabelindentB=\dimen113
+\IEEEilabelindent=\dimen114
+\IEEEelabelindent=\dimen115
+\IEEEdlabelindent=\dimen116
+\IEEElabelindent=\dimen117
+\IEEEiednormlabelsep=\dimen118
+\IEEEiedmathlabelsep=\dimen119
+\IEEEiedtopsep=\skip41
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEsubeqnnumrollback=\count91
+\@IEEEquantizeheightA=\dimen120
+\@IEEEquantizeheightB=\dimen121
+\@IEEEquantizeheightC=\dimen122
+\@IEEEquantizeprevdepth=\dimen123
+\@IEEEquantizemultiple=\count92
+\@IEEEquantizeboxA=\box26
+\@IEEEtmpitemindent=\dimen124
+\IEEEPARstartletwidth=\dimen125
+\c@IEEEbiography=\count93
+\@IEEEtranrubishbin=\box27
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count94
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+)
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+\epsfxsize=\dimen128
+\epsfysize=\dimen129
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\endnotes\endnotes.sty"
+\c@endnote=\count95
+\endnotesep=\dimen130
+\@enotes=\write3
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\dblfloatfix\dblfloatfix.sty"
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+)
+\@dblbotnum=\count96
+\c@dblbotnumber=\count97
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count98
+\float@exts=\toks16
+\float@box=\box28
+\@float@everytoks=\toks17
+\@floatcapt=\box29
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip44
+\subfigcapskip=\skip45
+\subfigcaptopadj=\dimen131
+\subfigbottomskip=\skip46
+\subfigcapmargin=\dimen132
+\subfiglabelskip=\skip47
+\c@subfigure=\count99
+\c@lofdepth=\count100
+\c@subtable=\count101
+\c@lotdepth=\count102
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfigure\subfigure.cfg")
+\subfig@top=\skip48
+\subfig@bottom=\skip49
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\inlinenum.st
+y
+Package: inlinenum 2004/01/14 0.1
+\c@inlinenumctr=\count103
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen133
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen134
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count104
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count105
+\leftroot@=\count106
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count107
+\DOTSCASE@=\count108
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen135
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count109
+\c@MaxMatrixCols=\count110
+\dotsspace@=\muskip11
+\c@parentequation=\count111
+\dspbrk@lvl=\count112
+\tag@help=\toks19
+\row@=\count113
+\column@=\count114
+\maxfields@=\count115
+\andhelp@=\toks20
+\eqnshift@=\dimen136
+\alignsep@=\dimen137
+\tagshift@=\dimen138
+\tagwidth@=\dimen139
+\totwidth@=\dimen140
+\lineht@=\dimen141
+\@envbody=\toks21
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen142
+\extrarowheight=\dimen143
+\NC@list=\toks23
+\extratabsurround=\skip53
+\backup@length=\skip54
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks24
+\XKV@tempa@toks=\toks25
+\XKV@depth=\count116
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box32
+)
+\tc@llx=\dimen144
+\tc@lly=\dimen145
+\tc@urx=\dimen146
+\tc@ury=\dimen147
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen148
+\adjbox@Height=\dimen149
+\adjbox@Depth=\dimen150
+\adjbox@Totalheight=\dimen151
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count117
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box33
+\sift@deathcycles=\count118
+\@vwid@loff=\dimen152
+\@vwid@roff=\dimen153
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\bare_jrnl_co
+mpsoc.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 402.
+LaTeX Font Info:    ... okay on input line 402.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 402.
+LaTeX Font Info:    ... okay on input line 402.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 402.
+LaTeX Font Info:    ... okay on input line 402.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 402.
+LaTeX Font Info:    ... okay on input line 402.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 402.
+LaTeX Font Info:    ... okay on input line 402.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 402.
+LaTeX Font Info:    ... okay on input line 402.
+
+-- Lines per column: 61 (exact).
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count119
+\scratchdimen=\dimen154
+\scratchbox=\box34
+\nofMPsegments=\count120
+\nofMParguments=\count121
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count122
+\MPscratchDim=\dimen155
+\MPnumerator=\count123
+\makeMPintoPDFobject=\count124
+\everyMPtoPDFconversion=\toks27
+)
+Redefining \end@dblfloat\ for use with subfigure
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 517.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8.03> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 517.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 517.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+)
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 517.
+LaTeX Font Info:    Try loading font information for U+msa on input line 517.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 517.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 51
+7.
+LaTeX Font Info:    Try loading font information for U+pzd on input line 517.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\intro.tex
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <11.04124> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/phv/bx/sc' in size <11.04124> not available
+
+(Font)              Font shape `OT1/phv/b/sc' tried instead on input line 1.
+Package epstopdf Info: Source file: <./Graphic/SystemFlow/leap_motion_system.ep
+s>
+(epstopdf)                    date: 2013-08-07 00:47:10
+(epstopdf)                    size: 3616084 bytes
+(epstopdf)             Output file: <./Graphic/SystemFlow/leap_motion_system-ep
+s-converted-to.pdf>
+(epstopdf)                    date: 2013-08-07 01:07:38
+(epstopdf)                    size: 519923 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/SystemFlow/leap_m
+otion_system-eps-converted-to.pdf ./Graphic/SystemFlow/leap_motion_system.eps>
+(epstopdf)             \includegraphics on input line 21.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/SystemFlow/leap_motion_system-eps-converted-to.pdf, id=1, 740.7675pt
+ x 279.0425pt>
+File: ./Graphic/SystemFlow/leap_motion_system-eps-converted-to.pdf Graphic file
+ (type pdf)
+
+<use ./Graphic/SystemFlow/leap_motion_system-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/SystemFlow/leap_motion_system-eps-converted-
+to.pdf used on input line 21.
+(pdftex.def)             Requested size: 227.64894pt x 85.7529pt.
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/Sys
+temFlow/leap_motion_system-eps-converted-to.pdf>]
+LaTeX Font Info:    Calculating math sizes for size <9.53561> on input line 75.
+
+Package epstopdf Info: Source file: <./Graphic/words_jing/1003_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:37:26
+(epstopdf)                    size: 648439 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1003_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:17:53
+(epstopdf)                    size: 12212 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1003_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_jing/1003_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 84.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1003_pdfCopy-eps-converted-to.pdf, id=19, 388.45125pt x 3
+17.185pt>
+File: ./Graphic/words_jing/1003_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_jing/1003_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1003_pdfCopy-eps-converted-to.pdf
+ used on input line 84.
+(pdftex.def)             Requested size: 32.88408pt x 26.84662pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1008_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:38:02
+(epstopdf)                    size: 569911 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1008_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:17:55
+(epstopdf)                    size: 9923 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1008_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_jing/1008_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 92.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1008_pdfCopy-eps-converted-to.pdf, id=20, 440.64626pt x 2
+86.06876pt>
+File: ./Graphic/words_jing/1008_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_jing/1008_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1008_pdfCopy-eps-converted-to.pdf
+ used on input line 92.
+(pdftex.def)             Requested size: 32.88408pt x 21.3451pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1011_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:38:26
+(epstopdf)                    size: 665658 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1011_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:17:56
+(epstopdf)                    size: 11540 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1011_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_jing/1011_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1011_pdfCopy-eps-converted-to.pdf, id=21, 432.61626pt x 3
+29.23pt>
+File: ./Graphic/words_jing/1011_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_jing/1011_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1011_pdfCopy-eps-converted-to.pdf
+ used on input line 94.
+(pdftex.def)             Requested size: 32.88408pt x 25.02274pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1014_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:39:02
+(epstopdf)                    size: 578898 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1014_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:17:57
+(epstopdf)                    size: 10120 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1014_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_jing/1014_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 96.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1014_pdfCopy-eps-converted-to.pdf, id=22, 395.4775pt x 32
+3.2075pt>
+File: ./Graphic/words_jing/1014_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_jing/1014_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1014_pdfCopy-eps-converted-to.pdf
+ used on input line 96.
+(pdftex.def)             Requested size: 32.88408pt x 26.87306pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10030_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:44
+(epstopdf)                    size: 78873 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10030_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-12 02:27:10
+(epstopdf)                    size: 22009 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10030_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10030_pdf.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10030_pdf-eps-converted-to.pdf, id=23, 440.64626pt x 331.
+2375pt>
+File: ./Graphic/words_meng/10030_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10030_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10030_pdf-eps-converted-to.pdf us
+ed on input line 105.
+(pdftex.def)             Requested size: 32.88408pt x 24.71538pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/20019_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:32:22
+(epstopdf)                    size: 100896 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/20019_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-12 02:27:12
+(epstopdf)                    size: 23509 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/20019_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/20019_pdf.eps>
+(epstopdf)             \includegraphics on input line 113.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/20019_pdf-eps-converted-to.pdf, id=24, 411.5375pt x 322.2
+0375pt>
+File: ./Graphic/words_meng/20019_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/20019_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/20019_pdf-eps-converted-to.pdf us
+ed on input line 113.
+(pdftex.def)             Requested size: 32.88408pt x 25.7424pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/20028_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:32:30
+(epstopdf)                    size: 65444 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/20028_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-12 02:27:12
+(epstopdf)                    size: 18469 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/20028_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/20028_pdf.eps>
+(epstopdf)             \includegraphics on input line 115.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/20028_pdf-eps-converted-to.pdf, id=25, 357.335pt x 308.15
+125pt>
+File: ./Graphic/words_meng/20028_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/20028_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/20028_pdf-eps-converted-to.pdf us
+ed on input line 115.
+(pdftex.def)             Requested size: 32.88408pt x 28.35777pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/20033_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:32:34
+(epstopdf)                    size: 61933 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/20033_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-12 02:27:12
+(epstopdf)                    size: 17686 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/20033_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/20033_pdf.eps>
+(epstopdf)             \includegraphics on input line 117.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/20033_pdf-eps-converted-to.pdf, id=26, 397.485pt x 308.15
+125pt>
+File: ./Graphic/words_meng/20033_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/20033_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/20033_pdf-eps-converted-to.pdf us
+ed on input line 117.
+(pdftex.def)             Requested size: 32.88408pt x 25.48955pt.
+Package epstopdf Info: Source file: <./Graphic/words_cao/10003_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:41:35
+(epstopdf)                    size: 634288 bytes
+(epstopdf)             Output file: <./Graphic/words_cao/10003_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:17:59
+(epstopdf)                    size: 11120 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_cao/10003_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_cao/10003_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 125.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_cao/10003_pdfCopy-eps-converted-to.pdf, id=27, 378.41376pt x 3
+51.3125pt>
+File: ./Graphic/words_cao/10003_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_cao/10003_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_cao/10003_pdfCopy-eps-converted-to.pdf
+ used on input line 125.
+(pdftex.def)             Requested size: 32.88408pt x 30.52855pt.
+Package epstopdf Info: Source file: <./Graphic/words_cao/10008_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:39:46
+(epstopdf)                    size: 561766 bytes
+(epstopdf)             Output file: <./Graphic/words_cao/10008_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:18:00
+(epstopdf)                    size: 10189 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_cao/10008_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_cao/10008_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 133.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_cao/10008_pdfCopy-eps-converted-to.pdf, id=28, 414.54875pt x 2
+83.0575pt>
+File: ./Graphic/words_cao/10008_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_cao/10008_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_cao/10008_pdfCopy-eps-converted-to.pdf
+ used on input line 133.
+(pdftex.def)             Requested size: 32.88408pt x 22.4507pt.
+Package epstopdf Info: Source file: <./Graphic/words_cao/10011_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:37:11
+(epstopdf)                    size: 745719 bytes
+(epstopdf)             Output file: <./Graphic/words_cao/10011_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:18:01
+(epstopdf)                    size: 13534 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_cao/10011_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_cao/10011_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 135.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_cao/10011_pdfCopy-eps-converted-to.pdf, id=29, 411.5375pt x 31
+9.1925pt>
+File: ./Graphic/words_cao/10011_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_cao/10011_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_cao/10011_pdfCopy-eps-converted-to.pdf
+ used on input line 135.
+(pdftex.def)             Requested size: 32.88408pt x 25.50182pt.
+Package epstopdf Info: Source file: <./Graphic/words_cao/10014_pdfCopy.eps>
+(epstopdf)                    date: 2014-05-16 04:39:14
+(epstopdf)                    size: 637153 bytes
+(epstopdf)             Output file: <./Graphic/words_cao/10014_pdfCopy-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-16 05:18:02
+(epstopdf)                    size: 11936 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_cao/10014_p
+dfCopy-eps-converted-to.pdf ./Graphic/words_cao/10014_pdfCopy.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_cao/10014_pdfCopy-eps-converted-to.pdf, id=30, 386.44376pt x 3
+04.13625pt>
+File: ./Graphic/words_cao/10014_pdfCopy-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/words_cao/10014_pdfCopy-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_cao/10014_pdfCopy-eps-converted-to.pdf
+ used on input line 137.
+(pdftex.def)             Requested size: 32.88408pt x 25.87675pt.
+
+Underfull \vbox (badness 1365) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 174--175
+[]\OT1/ppl/m/n/9.53561 We pro-posed a novel 3-level fea-ture ex-trac-tion
+ []
+
+) (C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\system.tex
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/user_
+2_bphmn_2_at_3th_component.eps>
+(epstopdf)                    date: 2013-11-13 19:58:42
+(epstopdf)                    size: 18219 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/user_
+2_bphmn_2_at_3th_component-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-13 19:59:12
+(epstopdf)                    size: 8118 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/user_2_bphmn_2_at_3th_component-eps-converted-to.pdf ./Graphic/Pic_wo
+rds_forSystemSection/user_2_bphmn_2_at_3th_component.eps>
+(epstopdf)             \includegraphics on input line 14.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_3th_component-eps-conve
+rted-to.pdf, id=31, 408.52625pt x 307.1475pt>
+File: ./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_3th_component-eps-
+converted-to.pdf Graphic file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_3th_component-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at
+_3th_component-eps-converted-to.pdf used on input line 14.
+(pdftex.def)             Requested size: 75.88426pt x 57.05104pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/1_b.e
+ps>
+(epstopdf)                    date: 2013-11-14 20:11:16
+(epstopdf)                    size: 10405 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/1_b-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-14 20:19:20
+(epstopdf)                    size: 5577 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/1_b-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/1_b.eps
+>
+(epstopdf)             \includegraphics on input line 15.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/1_b-eps-converted-to.pdf, id=32, 301.125p
+t x 150.5625pt>
+File: ./Graphic/Pic_words_forSystemSection/1_b-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/1_b-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/1_b-eps-converted
+-to.pdf used on input line 15.
+(pdftex.def)             Requested size: 139.12051pt x 69.56284pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/2_b.e
+ps>
+(epstopdf)                    date: 2013-11-14 20:10:34
+(epstopdf)                    size: 10015 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/2_b-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-14 20:19:20
+(epstopdf)                    size: 4874 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/2_b-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/2_b.eps
+>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/2_b-eps-converted-to.pdf, id=33, 301.125p
+t x 150.5625pt>
+File: ./Graphic/Pic_words_forSystemSection/2_b-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/2_b-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/2_b-eps-converted
+-to.pdf used on input line 16.
+(pdftex.def)             Requested size: 139.12051pt x 69.56284pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/user_
+1_bphmn_2_at_5th_component.eps>
+(epstopdf)                    date: 2013-11-13 19:58:30
+(epstopdf)                    size: 14602 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/user_
+1_bphmn_2_at_5th_component-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-13 19:59:12
+(epstopdf)                    size: 6452 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/user_1_bphmn_2_at_5th_component-eps-converted-to.pdf ./Graphic/Pic_wo
+rds_forSystemSection/user_1_bphmn_2_at_5th_component.eps>
+(epstopdf)             \includegraphics on input line 16.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_5th_component-eps-conve
+rted-to.pdf, id=34, 444.66125pt x 332.24126pt>
+File: ./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_5th_component-eps-
+converted-to.pdf Graphic file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_5th_component-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at
+_5th_component-eps-converted-to.pdf used on input line 16.
+(pdftex.def)             Requested size: 75.88426pt x 56.69824pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/user_
+2_bphmn_2_at_4th_component.eps>
+(epstopdf)                    date: 2013-11-13 19:58:42
+(epstopdf)                    size: 18872 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/user_
+2_bphmn_2_at_4th_component-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-13 19:59:14
+(epstopdf)                    size: 8322 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/user_2_bphmn_2_at_4th_component-eps-converted-to.pdf ./Graphic/Pic_wo
+rds_forSystemSection/user_2_bphmn_2_at_4th_component.eps>
+(epstopdf)             \includegraphics on input line 21.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_4th_component-eps-conve
+rted-to.pdf, id=35, 440.64626pt x 344.28625pt>
+File: ./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_4th_component-eps-
+converted-to.pdf Graphic file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_4th_component-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at
+_4th_component-eps-converted-to.pdf used on input line 21.
+(pdftex.def)             Requested size: 75.88426pt x 59.28963pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/1_p.e
+ps>
+(epstopdf)                    date: 2013-11-14 20:10:54
+(epstopdf)                    size: 10311 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/1_p-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-14 20:19:21
+(epstopdf)                    size: 5394 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/1_p-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/1_p.eps
+>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/1_p-eps-converted-to.pdf, id=36, 300.1212
+5pt x 150.5625pt>
+File: ./Graphic/Pic_words_forSystemSection/1_p-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/1_p-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/1_p-eps-converted
+-to.pdf used on input line 22.
+(pdftex.def)             Requested size: 139.12051pt x 69.79488pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/2_p.e
+ps>
+(epstopdf)                    date: 2013-11-14 20:12:00
+(epstopdf)                    size: 9929 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/2_p-e
+ps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-14 20:19:21
+(epstopdf)                    size: 4769 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/2_p-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/2_p.eps
+>
+(epstopdf)             \includegraphics on input line 23.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/2_p-eps-converted-to.pdf, id=37, 301.125p
+t x 150.5625pt>
+File: ./Graphic/Pic_words_forSystemSection/2_p-eps-converted-to.pdf Graphic fil
+e (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/2_p-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/2_p-eps-converted
+-to.pdf used on input line 23.
+(pdftex.def)             Requested size: 139.12051pt x 69.56284pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/user_
+1_bphmn_2_at_8th_component.eps>
+(epstopdf)                    date: 2013-11-13 19:58:32
+(epstopdf)                    size: 14979 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/user_
+1_bphmn_2_at_8th_component-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-13 19:59:14
+(epstopdf)                    size: 6653 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/user_1_bphmn_2_at_8th_component-eps-converted-to.pdf ./Graphic/Pic_wo
+rds_forSystemSection/user_1_bphmn_2_at_8th_component.eps>
+(epstopdf)             \includegraphics on input line 24.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_8th_component-eps-conve
+rted-to.pdf, id=38, 411.5375pt x 289.08pt>
+File: ./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_8th_component-eps-
+converted-to.pdf Graphic file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_8th_component-eps-c
+onverted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at
+_8th_component-eps-converted-to.pdf used on input line 24.
+(pdftex.def)             Requested size: 75.88426pt x 53.30252pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 57.
+ [2 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/
+words_jing/1003_pdfCopy-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeRes
+ponse/ieeetran-final_sub/IEEEtran/Graphic/words_jing/1008_pdfCopy-eps-converted
+-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Gra
+phic/words_jing/1011_pdfCopy-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Challen
+geResponse/ieeetran-final_sub/IEEEtran/Graphic/words_jing/1014_pdfCopy-eps-conv
+erted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtra
+n/Graphic/words_meng/10030_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Chall
+engeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_meng/20019_pdf-eps-conve
+rted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran
+/Graphic/words_meng/20028_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Challe
+ngeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_meng/20033_pdf-eps-conver
+ted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/
+Graphic/words_cao/10003_pdfCopy-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Chal
+lengeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_cao/10008_pdfCopy-eps-c
+onverted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEE
+tran/Graphic/words_cao/10011_pdfCopy-eps-converted-to.pdf> <C:/jing2015/AsiaCCS
+_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_cao/10014_pdfCopy-
+eps-converted-to.pdf>]
+<./Graphic/SystemFlow/SystemFlow_all_ccs.pdf, id=70, 436.63126pt x 326.72063pt>
+File: ./Graphic/SystemFlow/SystemFlow_all_ccs.pdf Graphic file (type pdf)
+<use ./Graphic/SystemFlow/SystemFlow_all_ccs.pdf>
+Package pdftex.def Info: ./Graphic/SystemFlow/SystemFlow_all_ccs.pdf used on in
+put line 104.
+(pdftex.def)             Requested size: 505.88998pt x 378.5475pt.
+
+Underfull \hbox (badness 2846) in paragraph at lines 119--123
+\OT1/ppl/m/n/9.53561 char-ac-ter-iz-ing hand-writ-ing styles has to be content-
+
+ []
+
+[3 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/P
+ic_words_forSystemSection/user_2_bphmn_2_at_3th_component-eps-converted-to.pdf>
+ <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/Pic
+_words_forSystemSection/1_b-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Challeng
+eResponse/ieeetran-final_sub/IEEEtran/Graphic/Pic_words_forSystemSection/2_b-ep
+s-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/I
+EEEtran/Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_5th_component-eps-
+converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEE
+Etran/Graphic/Pic_words_forSystemSection/user_2_bphmn_2_at_4th_component-eps-co
+nverted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEt
+ran/Graphic/Pic_words_forSystemSection/1_p-eps-converted-to.pdf> <C:/jing2015/A
+siaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/Pic_words_forSyste
+mSection/2_p-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeet
+ran-final_sub/IEEEtran/Graphic/Pic_words_forSystemSection/user_1_bphmn_2_at_8th
+_component-eps-converted-to.pdf>]
+Underfull \vbox (badness 3058) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3058) has occurred while \output is active []
+
+ [4 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/
+SystemFlow/SystemFlow_all_ccs.pdf>]
+LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <9.53561> not available
+(Font)              Font shape `OT1/pcr/b/n' tried instead on input line 147.
+
+Underfull \hbox (badness 1735) in paragraph at lines 155--156
+[]\OT1/ppl/m/n/9.53561 The \OT1/pcr/m/n/9.53561 MoCRA \OT1/ppl/m/n/9.53561 au-t
+hen-ti-ca-tion pro-cess con-sists of two
+ []
+
+) (C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\data.tex
+<./Graphic/Pic_words_forSystemSection/segmentation1.pdf, id=113, 280.83672pt x 
+226.37071pt>
+File: ./Graphic/Pic_words_forSystemSection/segmentation1.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/Pic_words_forSystemSection/segmentation1.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/segmentation1.pdf
+ used on input line 8.
+(pdftex.def)             Requested size: 113.82446pt x 91.7487pt.
+Package epstopdf Info: Source file: <./Graphic/pictures_seg/x-seg_1.eps>
+(epstopdf)                    date: 2014-02-25 08:27:10
+(epstopdf)                    size: 15539 bytes
+(epstopdf)             Output file: <./Graphic/pictures_seg/x-seg_1-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-02-25 08:28:11
+(epstopdf)                    size: 8925 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_seg/x-se
+g_1-eps-converted-to.pdf ./Graphic/pictures_seg/x-seg_1.eps>
+(epstopdf)             \includegraphics on input line 10.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_seg/x-seg_1-eps-converted-to.pdf, id=114, 451.6875pt x 344.
+28625pt>
+File: ./Graphic/pictures_seg/x-seg_1-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/pictures_seg/x-seg_1-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_seg/x-seg_1-eps-converted-to.pdf us
+ed on input line 10.
+(pdftex.def)             Requested size: 113.82446pt x 86.75954pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/1_thW
+ord.eps>
+(epstopdf)                    date: 2013-11-06 03:16:10
+(epstopdf)                    size: 8917 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/1_thW
+ord-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-06 04:22:28
+(epstopdf)                    size: 3976 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/1_thWord-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/1_
+thWord.eps>
+(epstopdf)             \includegraphics on input line 19.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/1_thWord-eps-converted-to.pdf, id=115, 40
+9.53pt x 325.215pt>
+File: ./Graphic/Pic_words_forSystemSection/1_thWord-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/1_thWord-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/1_thWord-eps-conv
+erted-to.pdf used on input line 19.
+(pdftex.def)             Requested size: 55.6482pt x 44.18994pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/2_thW
+ord.eps>
+(epstopdf)                    date: 2013-11-06 03:16:10
+(epstopdf)                    size: 31639 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/2_thW
+ord-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-06 04:22:30
+(epstopdf)                    size: 11363 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/2_thWord-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/2_
+thWord.eps>
+(epstopdf)             \includegraphics on input line 24.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/2_thWord-eps-converted-to.pdf, id=116, 42
+4.58624pt x 309.155pt>
+File: ./Graphic/Pic_words_forSystemSection/2_thWord-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/2_thWord-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/2_thWord-eps-conv
+erted-to.pdf used on input line 24.
+(pdftex.def)             Requested size: 55.6482pt x 40.51704pt.
+Package epstopdf Info: Source file: <./Graphic/Pic_words_forSystemSection/3_thW
+ord.eps>
+(epstopdf)                    date: 2013-11-06 03:16:10
+(epstopdf)                    size: 15146 bytes
+(epstopdf)             Output file: <./Graphic/Pic_words_forSystemSection/3_thW
+ord-eps-converted-to.pdf>
+(epstopdf)                    date: 2013-11-06 04:22:30
+(epstopdf)                    size: 17628 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Pic_words_forSyst
+emSection/3_thWord-eps-converted-to.pdf ./Graphic/Pic_words_forSystemSection/3_
+thWord.eps>
+(epstopdf)             \includegraphics on input line 29.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Pic_words_forSystemSection/3_thWord-eps-converted-to.pdf, id=117, 40
+1.5pt x 336.25626pt>
+File: ./Graphic/Pic_words_forSystemSection/3_thWord-eps-converted-to.pdf Graphi
+c file (type pdf)
+
+<use ./Graphic/Pic_words_forSystemSection/3_thWord-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Pic_words_forSystemSection/3_thWord-eps-conv
+erted-to.pdf used on input line 29.
+(pdftex.def)             Requested size: 55.64598pt x 50.58505pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1001_pdf.eps>
+(epstopdf)                    date: 2013-11-10 01:09:24
+(epstopdf)                    size: 45174 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1001_pdf-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:26:06
+(epstopdf)                    size: 12972 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1001_p
+df-eps-converted-to.pdf ./Graphic/words_jing/1001_pdf.eps>
+(epstopdf)             \includegraphics on input line 61.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1001_pdf-eps-converted-to.pdf, id=118, 415.5525pt x 305.1
+4pt>
+File: ./Graphic/words_jing/1001_pdf-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./Graphic/words_jing/1001_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1001_pdf-eps-converted-to.pdf use
+d on input line 61.
+(pdftex.def)             Requested size: 17.70354pt x 12.72034pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1002_pdf.eps>
+(epstopdf)                    date: 2013-11-10 01:09:24
+(epstopdf)                    size: 35383 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1002_pdf-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:26:08
+(epstopdf)                    size: 10462 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1002_p
+df-eps-converted-to.pdf ./Graphic/words_jing/1002_pdf.eps>
+(epstopdf)             \includegraphics on input line 62.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1002_pdf-eps-converted-to.pdf, id=119, 417.56pt x 309.155
+pt>
+File: ./Graphic/words_jing/1002_pdf-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./Graphic/words_jing/1002_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1002_pdf-eps-converted-to.pdf use
+d on input line 62.
+(pdftex.def)             Requested size: 17.70624pt x 12.71788pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1003_pdf.eps>
+(epstopdf)                    date: 2013-11-10 01:09:24
+(epstopdf)                    size: 45502 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1003_pdf-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:26:08
+(epstopdf)                    size: 13284 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1003_p
+df-eps-converted-to.pdf ./Graphic/words_jing/1003_pdf.eps>
+(epstopdf)             \includegraphics on input line 63.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1003_pdf-eps-converted-to.pdf, id=120, 401.5pt x 331.2375
+pt>
+File: ./Graphic/words_jing/1003_pdf-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./Graphic/words_jing/1003_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1003_pdf-eps-converted-to.pdf use
+d on input line 63.
+(pdftex.def)             Requested size: 17.70526pt x 12.72159pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1004_pdf.eps>
+(epstopdf)                    date: 2013-11-10 01:09:24
+(epstopdf)                    size: 32039 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1004_pdf-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:26:08
+(epstopdf)                    size: 9663 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1004_p
+df-eps-converted-to.pdf ./Graphic/words_jing/1004_pdf.eps>
+(epstopdf)             \includegraphics on input line 64.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1004_pdf-eps-converted-to.pdf, id=121, 395.4775pt x 346.2
+9375pt>
+File: ./Graphic/words_jing/1004_pdf-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./Graphic/words_jing/1004_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1004_pdf-eps-converted-to.pdf use
+d on input line 64.
+(pdftex.def)             Requested size: 17.7052pt x 12.7186pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1005_pdf.eps>
+(epstopdf)                    date: 2013-11-10 01:09:26
+(epstopdf)                    size: 59947 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1005_pdf-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:26:08
+(epstopdf)                    size: 14643 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1005_p
+df-eps-converted-to.pdf ./Graphic/words_jing/1005_pdf.eps>
+(epstopdf)             \includegraphics on input line 65.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1005_pdf-eps-converted-to.pdf, id=122, 410.53375pt x 342.
+27875pt>
+File: ./Graphic/words_jing/1005_pdf-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./Graphic/words_jing/1005_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1005_pdf-eps-converted-to.pdf use
+d on input line 65.
+(pdftex.def)             Requested size: 17.70271pt x 12.71738pt.
+Package epstopdf Info: Source file: <./Graphic/words_jing/1007_pdf.eps>
+(epstopdf)                    date: 2013-11-10 01:09:26
+(epstopdf)                    size: 36255 bytes
+(epstopdf)             Output file: <./Graphic/words_jing/1007_pdf-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:26:10
+(epstopdf)                    size: 9360 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_jing/1007_p
+df-eps-converted-to.pdf ./Graphic/words_jing/1007_pdf.eps>
+(epstopdf)             \includegraphics on input line 66.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_jing/1007_pdf-eps-converted-to.pdf, id=123, 390.45876pt x 303.
+1325pt>
+File: ./Graphic/words_jing/1007_pdf-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use ./Graphic/words_jing/1007_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_jing/1007_pdf-eps-converted-to.pdf use
+d on input line 66.
+(pdftex.def)             Requested size: 17.70691pt x 12.71991pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10001_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:26
+(epstopdf)                    size: 101157 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10001_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:35:26
+(epstopdf)                    size: 23017 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10001_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10001_pdf.eps>
+(epstopdf)             \includegraphics on input line 71.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10001_pdf-eps-converted-to.pdf, id=124, 436.63126pt x 324
+.21124pt>
+File: ./Graphic/words_meng/10001_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10001_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10001_pdf-eps-converted-to.pdf us
+ed on input line 71.
+(pdftex.def)             Requested size: 17.70212pt x 12.71889pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10002_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:26
+(epstopdf)                    size: 65344 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10002_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:35:26
+(epstopdf)                    size: 15535 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10002_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10002_pdf.eps>
+(epstopdf)             \includegraphics on input line 72.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10002_pdf-eps-converted-to.pdf, id=125, 402.50375pt x 320
+.19624pt>
+File: ./Graphic/words_meng/10002_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10002_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10002_pdf-eps-converted-to.pdf us
+ed on input line 72.
+(pdftex.def)             Requested size: 17.70653pt x 12.71771pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10003_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:26
+(epstopdf)                    size: 94028 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10003_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:35:28
+(epstopdf)                    size: 21758 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10003_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10003_pdf.eps>
+(epstopdf)             \includegraphics on input line 73.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10003_pdf-eps-converted-to.pdf, id=126, 382.42876pt x 363
+.3575pt>
+File: ./Graphic/words_meng/10003_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10003_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10003_pdf-eps-converted-to.pdf us
+ed on input line 73.
+(pdftex.def)             Requested size: 17.70454pt x 12.71881pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10004_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:28
+(epstopdf)                    size: 44134 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10004_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:35:28
+(epstopdf)                    size: 11156 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10004_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10004_pdf.eps>
+(epstopdf)             \includegraphics on input line 74.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10004_pdf-eps-converted-to.pdf, id=127, 428.60126pt x 354
+.32375pt>
+File: ./Graphic/words_meng/10004_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10004_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10004_pdf-eps-converted-to.pdf us
+ed on input line 74.
+(pdftex.def)             Requested size: 17.70355pt x 12.72157pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10005_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:28
+(epstopdf)                    size: 110592 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10005_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:35:28
+(epstopdf)                    size: 25128 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10005_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10005_pdf.eps>
+(epstopdf)             \includegraphics on input line 75.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10005_pdf-eps-converted-to.pdf, id=128, 383.4325pt x 341.
+275pt>
+File: ./Graphic/words_meng/10005_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10005_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10005_pdf-eps-converted-to.pdf us
+ed on input line 75.
+(pdftex.def)             Requested size: 17.70421pt x 12.72174pt.
+Package epstopdf Info: Source file: <./Graphic/words_meng/10007_pdf.eps>
+(epstopdf)                    date: 2013-11-10 03:31:28
+(epstopdf)                    size: 60760 bytes
+(epstopdf)             Output file: <./Graphic/words_meng/10007_pdf-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2013-11-10 03:35:28
+(epstopdf)                    size: 14730 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/words_meng/10007_
+pdf-eps-converted-to.pdf ./Graphic/words_meng/10007_pdf.eps>
+(epstopdf)             \includegraphics on input line 76.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/words_meng/10007_pdf-eps-converted-to.pdf, id=129, 360.34625pt x 349
+.305pt>
+File: ./Graphic/words_meng/10007_pdf-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/words_meng/10007_pdf-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/words_meng/10007_pdf-eps-converted-to.pdf us
+ed on input line 76.
+(pdftex.def)             Requested size: 17.70496pt x 12.71727pt.
+ [5 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/
+Pic_words_forSystemSection/segmentation1.pdf> <C:/jing2015/AsiaCCS_ChallengeRes
+ponse/ieeetran-final_sub/IEEEtran/Graphic/pictures_seg/x-seg_1-eps-converted-to
+.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphi
+c/Pic_words_forSystemSection/1_thWord-eps-converted-to.pdf> <C:/jing2015/AsiaCC
+S_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/Pic_words_forSystemSect
+ion/2_thWord-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeet
+ran-final_sub/IEEEtran/Graphic/Pic_words_forSystemSection/3_thWord-eps-converte
+d-to.pdf>]
+Underfull \hbox (badness 1406) in paragraph at lines 98--99
+[]\OT1/ppl/m/n/9.53561 finger vis-i-ble length and width. -- $\OML/cmm/m/it/10 
+L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 t\OT1/cmr/m/n/10 )$ \OT1/ppl/m/n/9.53561 a
+nd
+ []
+
+)
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\feature.tex
+<./Graphic/SystemFlow/FeatureFlow2015-2.pdf, id=147, 484.05844pt x 172.39406pt>
+File: ./Graphic/SystemFlow/FeatureFlow2015-2.pdf Graphic file (type pdf)
+<use ./Graphic/SystemFlow/FeatureFlow2015-2.pdf>
+Package pdftex.def Info: ./Graphic/SystemFlow/FeatureFlow2015-2.pdf used on inp
+ut line 7.
+(pdftex.def)             Requested size: 505.88998pt x 180.17732pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/w
+ords_jing/1001_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse
+/ieeetran-final_sub/IEEEtran/Graphic/words_jing/1002_pdf-eps-converted-to.pdf> 
+<C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/word
+s_jing/1003_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ie
+eetran-final_sub/IEEEtran/Graphic/words_jing/1004_pdf-eps-converted-to.pdf> <C:
+/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_j
+ing/1005_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeet
+ran-final_sub/IEEEtran/Graphic/words_jing/1007_pdf-eps-converted-to.pdf> <C:/ji
+ng2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_meng
+/10001_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetra
+n-final_sub/IEEEtran/Graphic/words_meng/10002_pdf-eps-converted-to.pdf> <C:/jin
+g2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_meng/
+10003_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran
+-final_sub/IEEEtran/Graphic/words_meng/10004_pdf-eps-converted-to.pdf> <C:/jing
+2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/words_meng/1
+0005_pdf-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-
+final_sub/IEEEtran/Graphic/words_meng/10007_pdf-eps-converted-to.pdf>]
+<./Graphic/Pictures/SLOPEANGLE.pdf, id=177, 219.06844pt x 187.45032pt>
+File: ./Graphic/Pictures/SLOPEANGLE.pdf Graphic file (type pdf)
+
+<use ./Graphic/Pictures/SLOPEANGLE.pdf>
+Package pdftex.def Info: ./Graphic/Pictures/SLOPEANGLE.pdf used on input line 6
+0.
+(pdftex.def)             Requested size: 227.64894pt x 194.79498pt.
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 102.
+
+
+
+LaTeX Font Warning: Command \scriptsize invalid in math mode on input line 102.
+
+
+Package epstopdf Info: Source file: <./Graphic/pictures_states/sample2.eps>
+(epstopdf)                    date: 2014-02-26 22:40:51
+(epstopdf)                    size: 6547457 bytes
+(epstopdf)             Output file: <./Graphic/pictures_states/sample2-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-02-26 22:44:00
+(epstopdf)                    size: 56630 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_states/s
+ample2-eps-converted-to.pdf ./Graphic/pictures_states/sample2.eps>
+(epstopdf)             \includegraphics on input line 212.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_states/sample2-eps-converted-to.pdf, id=178, 518.93875pt x 
+431.6125pt>
+File: ./Graphic/pictures_states/sample2-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/pictures_states/sample2-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_states/sample2-eps-converted-to.pdf
+ used on input line 212.
+(pdftex.def)             Requested size: 113.82446pt x 94.66525pt.
+Package epstopdf Info: Source file: <./Graphic/pictures_states/para2.eps>
+(epstopdf)                    date: 2014-02-26 22:40:56
+(epstopdf)                    size: 6547455 bytes
+(epstopdf)             Output file: <./Graphic/pictures_states/para2-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2014-02-26 22:44:02
+(epstopdf)                    size: 57397 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_states/p
+ara2-eps-converted-to.pdf ./Graphic/pictures_states/para2.eps>
+(epstopdf)             \includegraphics on input line 213.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_states/para2-eps-converted-to.pdf, id=179, 536.0025pt x 431
+.6125pt>
+File: ./Graphic/pictures_states/para2-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ./Graphic/pictures_states/para2-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_states/para2-eps-converted-to.pdf u
+sed on input line 213.
+(pdftex.def)             Requested size: 113.82446pt x 91.65552pt.
+Package epstopdf Info: Source file: <./Graphic/pictures_states/whole2.eps>
+(epstopdf)                    date: 2014-02-26 22:41:02
+(epstopdf)                    size: 6547456 bytes
+(epstopdf)             Output file: <./Graphic/pictures_states/whole2-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-02-26 22:44:04
+(epstopdf)                    size: 57861 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_states/w
+hole2-eps-converted-to.pdf ./Graphic/pictures_states/whole2.eps>
+(epstopdf)             \includegraphics on input line 214.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_states/whole2-eps-converted-to.pdf, id=180, 536.0025pt x 43
+1.6125pt>
+File: ./Graphic/pictures_states/whole2-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use ./Graphic/pictures_states/whole2-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_states/whole2-eps-converted-to.pdf 
+used on input line 214.
+(pdftex.def)             Requested size: 113.82446pt x 91.65552pt.
+Package epstopdf Info: Source file: <./Graphic/pictures_states/sample3.eps>
+(epstopdf)                    date: 2014-02-26 22:40:52
+(epstopdf)                    size: 6547457 bytes
+(epstopdf)             Output file: <./Graphic/pictures_states/sample3-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-02-26 22:44:06
+(epstopdf)                    size: 60710 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_states/s
+ample3-eps-converted-to.pdf ./Graphic/pictures_states/sample3.eps>
+(epstopdf)             \includegraphics on input line 216.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_states/sample3-eps-converted-to.pdf, id=181, 536.0025pt x 4
+31.6125pt>
+File: ./Graphic/pictures_states/sample3-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/pictures_states/sample3-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_states/sample3-eps-converted-to.pdf
+ used on input line 216.
+(pdftex.def)             Requested size: 113.82446pt x 91.65552pt.
+Package epstopdf Info: Source file: <./Graphic/pictures_states/para3.eps>
+(epstopdf)                    date: 2014-02-26 22:40:58
+(epstopdf)                    size: 6547455 bytes
+(epstopdf)             Output file: <./Graphic/pictures_states/para3-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2014-02-26 22:44:08
+(epstopdf)                    size: 59971 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_states/p
+ara3-eps-converted-to.pdf ./Graphic/pictures_states/para3.eps>
+(epstopdf)             \includegraphics on input line 217.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_states/para3-eps-converted-to.pdf, id=182, 536.0025pt x 431
+.6125pt>
+File: ./Graphic/pictures_states/para3-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ./Graphic/pictures_states/para3-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_states/para3-eps-converted-to.pdf u
+sed on input line 217.
+(pdftex.def)             Requested size: 113.82446pt x 91.65552pt.
+Package epstopdf Info: Source file: <./Graphic/pictures_states/whole3.eps>
+(epstopdf)                    date: 2014-02-26 22:41:04
+(epstopdf)                    size: 6547456 bytes
+(epstopdf)             Output file: <./Graphic/pictures_states/whole3-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-02-26 22:44:12
+(epstopdf)                    size: 60227 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/pictures_states/w
+hole3-eps-converted-to.pdf ./Graphic/pictures_states/whole3.eps>
+(epstopdf)             \includegraphics on input line 218.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/pictures_states/whole3-eps-converted-to.pdf, id=183, 551.05875pt x 4
+31.6125pt>
+File: ./Graphic/pictures_states/whole3-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use ./Graphic/pictures_states/whole3-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/pictures_states/whole3-eps-converted-to.pdf 
+used on input line 218.
+(pdftex.def)             Requested size: 113.82446pt x 89.1463pt.
+ [7 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/
+SystemFlow/FeatureFlow2015-2.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetr
+an-final_sub/IEEEtran/Graphic/Pictures/SLOPEANGLE.pdf
+
+pdfTeX warning: pdflatex (file C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-f
+inal_sub/IEEEtran/Graphic/Pictures/SLOPEANGLE.pdf): PDF inclusion: multiple pdf
+s with page group included in a single page
+>])
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\results.tex
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [8 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/
+pictures_states/sample2-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeRes
+ponse/ieeetran-final_sub/IEEEtran/Graphic/pictures_states/para2-eps-converted-t
+o.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graph
+ic/pictures_states/whole2-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeR
+esponse/ieeetran-final_sub/IEEEtran/Graphic/pictures_states/sample3-eps-convert
+ed-to.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/G
+raphic/pictures_states/para3-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Challen
+geResponse/ieeetran-final_sub/IEEEtran/Graphic/pictures_states/whole3-eps-conve
+rted-to.pdf>]
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9.53561> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 44.
+Package epstopdf Info: Source file: <./Graphic/roc/ROC_24victim_random.eps>
+(epstopdf)                    date: 2015-04-08 22:41:35
+(epstopdf)                    size: 126898 bytes
+(epstopdf)             Output file: <./Graphic/roc/ROC_24victim_random-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2015-04-09 09:52:57
+(epstopdf)                    size: 8864 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/roc/ROC_24victim_
+random-eps-converted-to.pdf ./Graphic/roc/ROC_24victim_random.eps>
+(epstopdf)             \includegraphics on input line 87.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/roc/ROC_24victim_random-eps-converted-to.pdf, id=312, 420.57124pt x 
+316.18124pt>
+File: ./Graphic/roc/ROC_24victim_random-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/roc/ROC_24victim_random-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/roc/ROC_24victim_random-eps-converted-to.pdf
+ used on input line 87.
+(pdftex.def)             Requested size: 202.35675pt x 152.13193pt.
+Package epstopdf Info: Source file: <./Graphic/roc/ROC_24victim_impostor.eps>
+(epstopdf)                    date: 2015-04-09 00:51:46
+(epstopdf)                    size: 134382 bytes
+(epstopdf)             Output file: <./Graphic/roc/ROC_24victim_impostor-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2015-04-09 09:57:30
+(epstopdf)                    size: 14502 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/roc/ROC_24victim_
+impostor-eps-converted-to.pdf ./Graphic/roc/ROC_24victim_impostor.eps>
+(epstopdf)             \includegraphics on input line 103.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/roc/ROC_24victim_impostor-eps-converted-to.pdf, id=313, 420.57124pt 
+x 316.18124pt>
+File: ./Graphic/roc/ROC_24victim_impostor-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use ./Graphic/roc/ROC_24victim_impostor-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/roc/ROC_24victim_impostor-eps-converted-to.p
+df used on input line 103.
+(pdftex.def)             Requested size: 202.35675pt x 152.13193pt.
+
+[9 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/r
+oc/ROC_24victim_random-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./Graphic/roc/ROC_4victim_075_1ST.eps>
+(epstopdf)                    date: 2014-05-14 23:02:23
+(epstopdf)                    size: 333039 bytes
+(epstopdf)             Output file: <./Graphic/roc/ROC_4victim_075_1ST-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-14 23:03:28
+(epstopdf)                    size: 8030 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/roc/ROC_4victim_0
+75_1ST-eps-converted-to.pdf ./Graphic/roc/ROC_4victim_075_1ST.eps>
+(epstopdf)             \includegraphics on input line 130.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/roc/ROC_4victim_075_1ST-eps-converted-to.pdf, id=321, 422.57875pt x 
+318.18875pt>
+File: ./Graphic/roc/ROC_4victim_075_1ST-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/roc/ROC_4victim_075_1ST-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/roc/ROC_4victim_075_1ST-eps-converted-to.pdf
+ used on input line 130.
+(pdftex.def)             Requested size: 164.41269pt x 123.80179pt.
+Package epstopdf Info: Source file: <./Graphic/roc/ROC_4victim_075_2ed.eps>
+(epstopdf)                    date: 2014-05-14 23:02:34
+(epstopdf)                    size: 334891 bytes
+(epstopdf)             Output file: <./Graphic/roc/ROC_4victim_075_2ed-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-14 23:03:29
+(epstopdf)                    size: 7707 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/roc/ROC_4victim_0
+75_2ed-eps-converted-to.pdf ./Graphic/roc/ROC_4victim_075_2ed.eps>
+(epstopdf)             \includegraphics on input line 132.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/roc/ROC_4victim_075_2ed-eps-converted-to.pdf, id=322, 422.57875pt x 
+318.18875pt>
+File: ./Graphic/roc/ROC_4victim_075_2ed-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/roc/ROC_4victim_075_2ed-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/roc/ROC_4victim_075_2ed-eps-converted-to.pdf
+ used on input line 132.
+(pdftex.def)             Requested size: 164.41269pt x 123.80179pt.
+Package epstopdf Info: Source file: <./Graphic/roc/ROC_4victim_075_3rd.eps>
+(epstopdf)                    date: 2014-05-14 23:02:39
+(epstopdf)                    size: 336777 bytes
+(epstopdf)             Output file: <./Graphic/roc/ROC_4victim_075_3rd-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-14 23:03:29
+(epstopdf)                    size: 7973 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/roc/ROC_4victim_0
+75_3rd-eps-converted-to.pdf ./Graphic/roc/ROC_4victim_075_3rd.eps>
+(epstopdf)             \includegraphics on input line 135.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/roc/ROC_4victim_075_3rd-eps-converted-to.pdf, id=323, 422.57875pt x 
+318.18875pt>
+File: ./Graphic/roc/ROC_4victim_075_3rd-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/roc/ROC_4victim_075_3rd-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/roc/ROC_4victim_075_3rd-eps-converted-to.pdf
+ used on input line 135.
+(pdftex.def)             Requested size: 164.41269pt x 123.80179pt.
+Package epstopdf Info: Source file: <./Graphic/roc/ROC_4victim_075_4th.eps>
+(epstopdf)                    date: 2014-05-14 23:02:12
+(epstopdf)                    size: 333647 bytes
+(epstopdf)             Output file: <./Graphic/roc/ROC_4victim_075_4th-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2014-05-14 23:03:30
+(epstopdf)                    size: 7861 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/roc/ROC_4victim_0
+75_4th-eps-converted-to.pdf ./Graphic/roc/ROC_4victim_075_4th.eps>
+(epstopdf)             \includegraphics on input line 137.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/roc/ROC_4victim_075_4th-eps-converted-to.pdf, id=324, 422.57875pt x 
+318.18875pt>
+File: ./Graphic/roc/ROC_4victim_075_4th-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use ./Graphic/roc/ROC_4victim_075_4th-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/roc/ROC_4victim_075_4th-eps-converted-to.pdf
+ used on input line 137.
+(pdftex.def)             Requested size: 164.41269pt x 123.80179pt.
+Package epstopdf Info: Source file: <./Graphic/Results_/color_map.eps>
+(epstopdf)                    date: 2014-02-11 06:42:46
+(epstopdf)                    size: 11029 bytes
+(epstopdf)             Output file: <./Graphic/Results_/color_map-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2014-02-11 06:45:20
+(epstopdf)                    size: 4459 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Results_/color_ma
+p-eps-converted-to.pdf ./Graphic/Results_/color_map.eps>
+(epstopdf)             \includegraphics on input line 207.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Results_/color_map-eps-converted-to.pdf, id=325, 404.51125pt x 242.9
+075pt>
+File: ./Graphic/Results_/color_map-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use ./Graphic/Results_/color_map-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Results_/color_map-eps-converted-to.pdf used
+ on input line 207.
+(pdftex.def)             Requested size: 227.64894pt x 136.70554pt.
+ [10 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic
+/roc/ROC_24victim_impostor-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <./Graphic/Results_/Num_classes.eps>
+(epstopdf)                    date: 2014-02-25 03:33:34
+(epstopdf)                    size: 10098 bytes
+(epstopdf)             Output file: <./Graphic/Results_/Num_classes-eps-convert
+ed-to.pdf>
+(epstopdf)                    date: 2014-02-25 03:33:49
+(epstopdf)                    size: 3776 bytes
+(epstopdf)             Command: <epstopdf --outfile=./Graphic/Results_/Num_clas
+ses-eps-converted-to.pdf ./Graphic/Results_/Num_classes.eps>
+(epstopdf)             \includegraphics on input line 225.
+Package epstopdf Info: Output file is already uptodate.
+
+<./Graphic/Results_/Num_classes-eps-converted-to.pdf, id=332, 461.725pt x 250.9
+375pt>
+File: ./Graphic/Results_/Num_classes-eps-converted-to.pdf Graphic file (type pd
+f)
+ <use ./Graphic/Results_/Num_classes-eps-converted-to.pdf>
+Package pdftex.def Info: ./Graphic/Results_/Num_classes-eps-converted-to.pdf us
+ed on input line 225.
+(pdftex.def)             Requested size: 202.35675pt x 109.97632pt.
+ [11 <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic
+/Results_/color_map-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeRespons
+e/ieeetran-final_sub/IEEEtran/Graphic/Results_/Num_classes-eps-converted-to.pdf
+> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graphic/ro
+c/ROC_4victim_075_1ST-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_ChallengeRespo
+nse/ieeetran-final_sub/IEEEtran/Graphic/roc/ROC_4victim_075_2ed-eps-converted-t
+o.pdf> <C:/jing2015/AsiaCCS_ChallengeResponse/ieeetran-final_sub/IEEEtran/Graph
+ic/roc/ROC_4victim_075_3rd-eps-converted-to.pdf> <C:/jing2015/AsiaCCS_Challenge
+Response/ieeetran-final_sub/IEEEtran/Graphic/roc/ROC_4victim_075_4th-eps-conver
+ted-to.pdf>])
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\related.tex
+[12])
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\conc.tex)
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\bare_jrnl_co
+mpsoc.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+[]\OT1/ppl/m/n/8.03 How does the leap mo-tion con-troller
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--7
+\OT1/ppl/m/n/8.03 work?  $http : / / blog . leapmotion . com /$
+ []
+
+
+Overfull \hbox (4.51126pt too wide) in paragraph at lines 4--7
+$\OT1/ppl/m/n/8.03 hardware-[]to-[]software-[]how-[]does-[]the-[]leap-[]motion-
+[]controller-[]work$. 
+ []
+
+Missing character: There is no Ã in font pplrc7t!
+Missing character: There is no ¡ in font pplrc7t!
+Missing character: There is no Å in font pplrc7t!
+Missing character: There is no £ in font pplrc7t!
+Missing character: There is no Å in font pplrc7t!
+Missing character: There is no £ in font pplrc7t!
+Missing character: There is no Å in font pplrc7t!
+Missing character: There is no ž in font pplrc7t!
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+$\OT1/ppl/m/n/8.03 documentation / Languages / CSharpandUnity / Guides / Leap[]
+$
+ []
+
+Missing character: There is no â in font pplrc7t!
+Missing character: There is no € in font pplrc7t!
+Missing character: There is no ™ in font pplrc7t!
+
+Underfull \hbox (badness 3646) in paragraph at lines 260--265
+[]\OT1/ppl/m/sc/8.03 Sae-Bae, N., Ahmed, K., Is-biste, K., and Memon, N.
+ []
+
+) [14]
+(C:\jing2015\AsiaCCS_ChallengeResponse\ieeetran-final_sub\IEEEtran\bare_jrnl_co
+mpsoc.aux) ) 
+Here is how much of TeX's memory you used:
+ 5147 strings out of 493921
+ 89581 string characters out of 3144866
+ 141736 words of memory out of 3000000
+ 8209 multiletter control sequences out of 15000+200000
+ 55773 words of font info for 134 fonts, out of 3000000 for 9000
+ 844 hyphenation exceptions out of 8191
+ 42i,18n,36p,1576b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/urw/courier/ucrb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/u
+rw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvet
+ic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8
+a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvro8a.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on bare_jrnl_compsoc.pdf (14 pages, 1969840 bytes).
+PDF statistics:
+ 446 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 276 words of extra memory for PDF output out of 10000 (max. 10000000)
+

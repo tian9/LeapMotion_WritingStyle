@@ -1,0 +1,334 @@
+\begin{thebibliography}{10}
+
+\bibitem{leapBlog}
+How does the leap motion controller work?
+\newblock
+  \url{http://blog.leapmotion.com/hardware-to-software-how-does-the-leap-motion-controller-work}.
+
+\bibitem{Ahmed:TPDS07}
+{\sc Ahmed, A. A.~E., and Traore, I.}
+\newblock A new biometric technology based on mouse dynamics.
+\newblock {\em IEEE Transaction on Dependable and Security Computing 4}, 3
+  (2007), 165--179.
+
+\bibitem{Aslan14:LeapMidAirGesture}
+{\sc Aslan, I., Uhl, A., Meschtscherjakov, A., and Tscheligi, M.}
+\newblock Mid-air authentication gestures: An exploration of authentication
+  based on palm and finger motions.
+\newblock In {\em Proceedings of the 16th International Conference on
+  Multimodal Interaction\/} (New York, NY, USA, 2014), ICMI '14, ACM,
+  pp.~311--318.
+
+\bibitem{Aviv:woot10}
+{\sc Aviv, A.~J., Gibsonand, K., Mossop, E., Blaze, M., and Smith, J.~M.}
+\newblock Smudge attacks on smartphone touch screens.
+\newblock In {\em Proceedings of WOOT\/} (2010), pp.~1--7.
+
+\bibitem{Bellovin92encryptedkey}
+{\sc Bellovin, S.~M., and Merritt, M.}
+\newblock Encrypted key exchange: Password-based protocols secure against
+  dictionary attacks.
+\newblock In {\em IEEE SYMPOSIUM ON RESEARCH IN SECURITY AND PRIVACY\/} (1992),
+  pp.~72--84.
+
+\bibitem{Bernardos2015:LeapHandIdentify}
+{\sc Bernardos, A.~M., Sánchez, J.~M., Portillo, J.~I., Besada, J.~A., and
+  Casar, J.~R.}
+\newblock A contactless identification system based on hand shape features.
+\newblock {\em Procedia Computer Science 52\/} (2015), 161 -- 168.
+\newblock The 6th International Conference on Ambient Systems, Networks and
+  Technologies (ANT-2015), the 5th International Conference on Sustainable
+  Energy Information Technology (SEIT-2015).
+
+\bibitem{Bangla2011}
+{\sc Biswas, S., and Das, A.~K.}
+\newblock Content independent writer identification using occurrences of
+  writing styles for bangla handwritings.
+\newblock In {\em Computer Vision, Pattern Recognition, Image Processing and
+  Graphics, National Conference on\/} (Los Alamitos, CA, USA, 2011), vol.~0,
+  IEEE Computer Society, pp.~154--157.
+
+\bibitem{bulacu2007text}
+{\sc Bulacu, M., and Schomaker, L.}
+\newblock Text-independent writer identification and verification using
+  textural and allographic features.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions on
+  29}, 4 (2007), 701--717.
+
+\bibitem{Cockburn_AirPointing_2011HCS}
+{\sc Cockburn, A., Quinn, P., Gutwin, C., and Looser, J.}
+\newblock {A}ir pointing: {D}esign and evaluation of spatial target acquisition
+  with and without visual feedback.
+\newblock {\em International Journal of Human-Computer Studies 69(6)\/} (2011),
+  401--414.
+
+\bibitem{Securityforcomputernetworks}
+{\sc DAVIES, D., and PRICE, W.}
+\newblock {\em Security for computer networks}.
+\newblock John Wiley, Chichester, England, 1984.
+
+\bibitem{Derawi:2013}
+{\sc Derawi, M., and Bours, P.}
+\newblock Gait and activity recognition using commercial phones.
+\newblock {\em Computers and Security 39\/} (Nov. 2013), 137--144.
+
+\bibitem{Component94}
+{\sc Dimauro, G., Impedovo, S., and Pirlo, G.}
+\newblock Component-oriented algorithms for signature verification.
+\newblock {\em International Journal of Pattern Recognition and Artificial
+  Intelligence 8}, 3, 771--794.
+
+\bibitem{Gafurov2007}
+{\sc Gafurov, D., Snekkenes, E., and Bours, P.}
+\newblock Gait authentication and identification using wearable accelerometer
+  sensor.
+\newblock In {\em Automatic Identification Advanced Technologies, 2007 IEEE
+  Workshop on\/} (2007), pp.~220--225.
+
+\bibitem{SaltNoise}
+{\sc Gonzalez, R.~C., and Woods, R.~E.}
+\newblock {\em Digital Image Processing}.
+\newblock Prentice Hall, 2008.
+
+\bibitem{writer-identification-musical-scores}
+{\sc Gordo, A., Fornes, A., Valveny, E., and Llados, J.}
+\newblock A bag of notes approach to writer identification in old handwritten
+  musical scores.
+\newblock In {\em Proceedings of the 9th IAPR International Workshop on
+  Document Analysis Systems\/} (2010), pp.~247--254.
+
+\bibitem{LeapOnline1}
+{\sc Gorman, M.}
+\newblock Leap motion controller review.
+\newblock
+  \url{http://www.engadget.com/2013/07/22/leap-motion-controller-review/}.
+
+\bibitem{Hayashi2014:WMU}
+{\sc Hayashi, E., Maas, M., and Hong, J.~I.}
+\newblock Wave to me: User identification using body lengths and natural
+  gestures.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems\/} (New York, NY, USA, 2014), CHI '14, ACM, pp.~3453--3462.
+
+\bibitem{Consumed_Endurance_fatigue_CHI_2014}
+{\sc Hincapi{\'e}-Ramos, J.~D., Guo, X., Moghadasian, P., and Irani, P.}
+\newblock Consumed endurance: A metric to quantify arm fatigue of mid-air
+  interactions.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems\/} (New York, NY, USA, 2014), CHI '14, ACM, pp.~1063--1072.
+
+\bibitem{Zaiţi2015:TVcontrol}
+{\sc Ionuţ-Alexandru~Zaiţi, Ştefan-Gheorghe~Pentiuc, R.-D.~V.}
+\newblock On free-hand tv control: experimental results on user-elicited
+  gestures with leap motion.
+
+\bibitem{onlinesigver02}
+{\sc Jain, A., Griess, F.~D., and Connell, S.~D.}
+\newblock {On-line signature verification}.
+\newblock {\em Pattern Recognition 35}, 12 (Dec. 2002), 2963--2972.
+
+\bibitem{light-svm}
+{\sc Joachims, T.}
+\newblock Making large-scale svm learning practical. advances in kernel
+  methods-support vector learning, 1999.
+
+\bibitem{johnson2013SPIE}
+{\sc Johnson, R., Scheirer, W.~J., and Boult, T.~E.}
+\newblock Secure voice based authentication for mobile devices: Vaulted voice
+  verification.
+\newblock {\em Proceedings of SPIE, Biometric and Surveillance Tech. for Human
+  and Activity Identification 8712\/} (May 2013).
+
+\bibitem{Jorgensen11mouse}
+{\sc Jorgensen, Z., and Yu, T.}
+\newblock On mouse dynamics as a behavioral biometric for authentication.
+\newblock In {\em Proceedings of the ASIACCS2011\/} (2011).
+
+\bibitem{Ari:CCS13}
+{\sc Juels, A., and (MIT), R.~R.}
+\newblock Honeywords: Making password-cracking detectable.
+\newblock In {\em Proceedings of ACM CCS\/} (2013), pp.~145--160.
+
+\bibitem{kalera2004offline}
+{\sc Kalera, M.~K., Srihari, S., and Xu, A.}
+\newblock Offline signature verification and identification using distance
+  statistics.
+\newblock {\em International Journal of Pattern Recognition and Artificial
+  Intelligence 18}, 07 (2004), 1339--1360.
+
+\bibitem{JapanPassVeri}
+{\sc Kamihira, Y., Ohyama, W., Wakabayashi, T., and Kimura, F.}
+\newblock Improvement of japanese signature verification by
+  segmentation-verification.
+\newblock {\em 2013 12th International Conference on Document Analysis and
+  Recognition 0\/} (2013), 379--382.
+
+\bibitem{Kubota:ISPACS06}
+{\sc Kubota, A., Hatori, Y., Matsuo, K., Hashimoto, M., and Koike, A.}
+\newblock A study on biometric authentication based on arm sweep action with
+  acceleration sensor.
+\newblock In {\em Proceedings of International Symposium on Intelligent Signal
+  Processing and Communication\/} (2006), pp.~219--222.
+
+\bibitem{LeeV12Cursive}
+{\sc Lee, H., and Verma, B.}
+\newblock Binary segmentation algorithm for english cursive handwriting
+  recognition.
+\newblock {\em Pattern Recognition 45}, 4 (2012), 1306--1317.
+
+\bibitem{Liu:2009MobiHCI}
+{\sc Liu, J., Zhong, L., Wickramasuriya, J., and Vasudevan, V.}
+\newblock User evaluation of lightweight user authentication with a single
+  tri-axis accelerometer.
+\newblock In {\em Proceedings of the 11th International Conference on
+  Human-Computer Interaction with Mobile Devices and Services\/} (2009),
+  MobileHCI '09.
+
+\bibitem{DeLuca:2012}
+{\sc Luca, A.~D., Hang, A., Brudy, F., Lindner, C., and Hussmann, H.}
+\newblock Touch me once and i know it's you!: Implicit authentication based on
+  touch screen patterns.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems\/} (2012), CHI '12, pp.~987--996.
+
+\bibitem{GaitKinectMS}
+{\sc M.~Gabel, R. Gilad-Bachrach, E.~R., and Schuster, A.}
+\newblock Full body gait analysis with kinect.
+\newblock In {\em Proceedings of EMBC 2012\/} (August 2012), Annual
+  International Conference of the IEEE Engineering in Medicine and Biology
+  Society (EMBC).
+
+\bibitem{Madhvanath2012}
+{\sc Madhvanath, S., and Bharath, A.}
+\newblock Hmm-based lexicon-driven and lexicon-free word recognition for online
+  handwritten indic scripts.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence
+  34}, 4 (2012), 670--682.
+
+\bibitem{Monrose:CCS99}
+{\sc Monrose, F., Reiter, M.~K., and Wetzel, S.}
+\newblock Password hardening based on keystroke dynamics.
+\newblock In {\em Proceedings of the 6th ACM conference on Computer and
+  communications ecurity\/} (1999), CCS '99, pp.~73--82.
+
+\bibitem{Monrose97keystroke}
+{\sc Monrose, F., and Rubin, A.}
+\newblock Authentication via keystroke dynamics.
+\newblock In {\em 4th ACM Conference on Computer and Communications Security\/}
+  (1997), pp.~48--56.
+
+\bibitem{LeapOnlineOverview}
+{\sc Motion, L.}
+\newblock Leap overview.
+\newblock
+  \url{https://developer.leapmotion.com/documentation/Languages/CSharpandUnity/Guides/Leap_Overview.html}.
+
+\bibitem{Nigam15:LeapSigVeri}
+{\sc Nigam, I., Vatsa, M., and Singh, R.}
+\newblock Leap signature recognition using hoof and hot features.
+\newblock In {\em Image Processing (ICIP), 2014 IEEE International Conference
+  on\/} (Oct 2014).
+
+\bibitem{Gorman2003ComparingPasswords}
+{\sc O’Gorman, L.}
+\newblock Comparing passwords, tokens, and biometrics for user authentication.
+\newblock In {\em Proceedings of the IEEE\/} (2003), vol.~91, IEEE,
+  pp.~2019--2040.
+
+\bibitem{word-seg-stroke}
+{\sc Park, J., Govindaraju, V., and Srihari, S.~N.}
+\newblock Efficient word segmentation driven by unconstrained handwritten
+  phrase recognition.
+\newblock In {\em Document Analysis and Recognition, 1999. ICDAR '99.
+  Proceedings of the Fifth International Conference on\/} (1999), pp.~605 --
+  608.
+
+\bibitem{Plamondon2000Review}
+{\sc Plamondon, R., and Srihari, S.~N.}
+\newblock On-line and off-line handwriting recognition: A comprehensive survey.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell. 22}, 1 (Jan. 2000),
+  63--84.
+
+\bibitem{Revett:springerlink:10}
+{\sc Revett, K.}
+\newblock A bioinformatics based approach to user authentication via keystroke
+  dynamics.
+\newblock {\em International Journal of Control, Automation and Systems 7}, 1
+  (2009), 7--15.
+
+\bibitem{SaeBaeCHI2012}
+{\sc Sae-Bae, N., Ahmed, K., Isbiste, K., and Memon, N.}
+\newblock Biometric-rich gestures: A novel approach to authentication on
+  multi-touch devices.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems\/} (2012), CHI '12, pp.~977--986.
+
+\bibitem{schomaker2004automatic}
+{\sc Schomaker, L., and Bulacu, M.}
+\newblock Automatic writer identification using connected-component contours
+  and edge-based features of uppercase western script.
+\newblock {\em Pattern Analysis and Machine Intelligence, IEEE Transactions on
+  26}, 6 (2004), 787--798.
+
+\bibitem{Shavlik01keystroke}
+{\sc Shavlik, J., Shavlik, M., and Fahland, M.}
+\newblock Evaluating software sensors for actively profiling windows 2000
+  users.
+\newblock In {\em Proceedings of the Fourth International Symposium on Recent
+  Advances in Intrusion Detection\/} (2001).
+
+\bibitem{Sherman:2014}
+{\sc Sherman, M., Clark, G., Yang, Y., Sugrim, S., Modig, A., Lindqvist, J.,
+  Oulasvirta, A., and Roos, T.}
+\newblock User-generated free-form gestures for authentication: Security and
+  memorability.
+\newblock In {\em Proceedings of the 12th Annual International Conference on
+  Mobile Systems, Applications, and Services\/} (2014), MobiSys '14,
+  pp.~176--189.
+
+\bibitem{arabic_handwriting}
+{\sc Somaya, A.~M.}
+\newblock Text-dependent writer identification for arabic handwriting.
+\newblock {\em Journal of Electrical and Computer Engineering\/} (2012).
+
+\bibitem{Tappert1990}
+{\sc Tappert, C.~C., Suen, C.~Y., and Wakahara, T.}
+\newblock The state of the art in online handwriting recognition.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell. 12}, 8 (Aug. 1990),
+  787--808.
+
+\bibitem{Tappert90}
+{\sc Tappert, C.~C., Suen, C.~Y., and Wakahara, T.}
+\newblock The state of the art in online handwriting recognitionr.
+\newblock In {\em Pattern Analysis and Machine Intelligence, IEEE Transactions
+  on\/} (August 1990), vol.~12, pp.~787--808.
+
+\bibitem{TianQXW13:NDSS13}
+{\sc Tian, J., Qu, C., Xu, W., and Wang, S.}
+\newblock Kinwrite: Handwriting-based authentication using kinect.
+\newblock In {\em NDSS\/} (2013).
+
+\bibitem{Uell:CCS13}
+{\sc Uellenbeck, S., Durmuth, M., Wolf, C., and Holz, T.}
+\newblock Quantifying the security of graphical passwords: The case of android
+  unlock patterns.
+\newblock In {\em Proceedings of ACM CCS\/} (2013), pp.~161--172.
+
+\bibitem{Vikram_handwritingleap}
+{\sc Vikram, S., Li, L., and Russell, S.}
+\newblock Handwriting and gestures in the air, recognizing on the fly.
+\newblock In {\em In Proceedings of the CHI 2013 Extended Abstracts\/} (Paris,
+  France, 2013).
+
+\bibitem{Wen201245}
+{\sc Wen, J., Fang, B., Chen, J., Tang, Y.~Y., and Chen, H.}
+\newblock Fragmented edge structure coding for chinese writer identification.
+\newblock {\em Neurocomputing 86}, 0 (2012), 45 -- 51.
+
+\bibitem{Zheng:CCS11}
+{\sc Zheng, N., Paloski, A., and Wang, H.}
+\newblock An efficient user verification system via mouse movements.
+\newblock In {\em Proceedings of the 18th ACM conference on Computer and
+  communications security\/} (2011), CCS '11, pp.~139--150.
+
+\end{thebibliography}
